@@ -13,3 +13,10 @@ These are my favorite things:
 * juggling
 
 I teach at [Marlborough School](http://marlborough.org)
+
+
+<script src="processing.min.js"></script>
+
+<canvas data-processing-sources="bouncing_ball.pde"></canvas>
+
+
