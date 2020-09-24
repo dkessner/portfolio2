@@ -1,13 +1,5 @@
-# portfolio
+# portfolio2
 
-## section one
+[https://dkessner.github.io/portfolio2/](https://dkessner.github.io/portfolio2/)
 
-The quick brown fox jumps over the lazy dog.
 
-These are my favorite things:
-
-* math
-* computers
-* juggling
-
-I teach at [Marlborough School](http://marlborough.org)
